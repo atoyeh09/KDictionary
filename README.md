@@ -6,7 +6,8 @@ Functionality:
 * Segmentation
 * Lemmatization
 * Web Scraping
-* Favourite
+* Favourite Words
+* Search History
 * Import from File
 * DB Intigration (MySQL)
 * Logging

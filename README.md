@@ -9,6 +9,8 @@ Functionality:
 * Favourite Words
 * Search History
 * Import from File
+* Exception Handling
+* Multithreading
 * DB Intigration (MySQL)
 * Logging
 
